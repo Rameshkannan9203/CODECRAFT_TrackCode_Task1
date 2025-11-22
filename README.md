@@ -13,17 +13,7 @@
 
 ---
 
-## 🌙 Dark Mode Preview  
-*(Replace with your actual screenshot)*  
-```
-![Dark Mode Screenshot](https://your-darkmode-image-link-here)
-```
 
----
-
-## 📸 Light Mode Preview  
-```
-![Light Mode Screenshot](https://your-lightmode-image-link-here)
 ```
 
 ---
