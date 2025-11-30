@@ -51,7 +51,7 @@ advanced-encryption-decryption-tool/
 │     └── frontend.js
 
 
----
+
 
 ## ⚙️ Installation
 
@@ -70,7 +70,7 @@ python backend.py
 frontend/index.html
 ```
 
----
+
 
 ## 📡 API Documentation
 
