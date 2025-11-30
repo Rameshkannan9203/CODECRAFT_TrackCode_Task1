@@ -14,7 +14,7 @@
 ---
 
 
-```
+
 
 ---
 
@@ -49,7 +49,7 @@ advanced-encryption-decryption-tool/
 │     ├── index.html
 │     ├── style.css  (dark + light mode)
 │     └── frontend.js
-```
+
 
 ---
 
